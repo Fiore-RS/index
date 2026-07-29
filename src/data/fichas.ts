@@ -16,7 +16,7 @@ export const fichas: Ficha[] = [
   {
     numero: "000",
     titulo: "Portfolio",
-    descripcion: "Diseño y desarrollo UX/UI — trabajo seleccionado",
+    descripcion: "Diseño y desarrollo UX/UI: trabajo seleccionado",
     categoria: "herramienta",
     anio: "2026",
     url: "https://fiore-rs.github.io/Portfolio/",
