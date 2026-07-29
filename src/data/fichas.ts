@@ -14,7 +14,7 @@ export interface Ficha {
 // El grid y la numeración se acomodan solos.
 export const fichas: Ficha[] = [
   {
-    numero: "001",
+    numero: "000",
     titulo: "Portfolio",
     descripcion: "Diseño y desarrollo UX/UI — trabajo seleccionado",
     categoria: "herramienta",
@@ -23,7 +23,7 @@ export const fichas: Ficha[] = [
     featured: true,
   },
   {
-    numero: "002",
+    numero: "001",
     titulo: "Book Tracker",
     descripcion: "Seguimiento de libros, full-stack",
     categoria: "app",
