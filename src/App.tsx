@@ -6,10 +6,10 @@ function App() {
       <header className="mx-auto mb-10 max-w-3xl">
         <p className="font-mono text-xs text-ink-muted">catálogo</p>
         <h1 className="mt-1 font-display text-3xl font-medium text-ink sm:text-4xl">
-          Fiorella — índice de proyectos
+          Índice de proyectos y páginas: Fiorella Salazar
         </h1>
         <p className="mt-2 text-sm text-ink-soft">
-          Un fichero de todo lo que voy construyendo, del portfolio para acá.
+          Un fichero de todo lo que voy construyendo en desarrollo web, desde mi portfolio hasta apps.
         </p>
       </header>
 
@@ -17,7 +17,7 @@ function App() {
 
       <footer className="mx-auto mt-14 max-w-3xl border-t border-dashed border-line pt-4">
         <p className="font-mono text-[11px] text-ink-muted">
-          actualizado a mano, ficha por ficha
+          Actualizado a mano, ficha por ficha
         </p>
       </footer>
     </div>
