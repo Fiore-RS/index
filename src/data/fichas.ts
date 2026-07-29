@@ -19,7 +19,7 @@ export const fichas: Ficha[] = [
     descripcion: "Diseño y desarrollo UX/UI — trabajo seleccionado",
     categoria: "herramienta",
     anio: "2026",
-    url: "https://fiore-rs.github.io/portfolio",
+    url: "https://fiore-rs.github.io/Portfolio/",
     featured: true,
   },
   {
@@ -28,6 +28,6 @@ export const fichas: Ficha[] = [
     descripcion: "Seguimiento de libros, full-stack",
     categoria: "app",
     anio: "2026",
-    url: "https://fiore-rs.github.io/book-tracker",
+    url: "https://fiore-rs.github.io/BookTracker/",
   },
 ];
