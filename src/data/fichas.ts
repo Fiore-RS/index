@@ -30,4 +30,12 @@ export const fichas: Ficha[] = [
     anio: "2026",
     url: "https://fiore-rs.github.io/BookTracker/",
   },
+  {
+    numero: "002",
+    titulo: "Teleo",
+    descripcion: "Diario de lectura personal, sin ads ni rastreo",
+    categoria: "app",
+    anio: "2026",
+    url: "https://fiore-rs.github.io/teleo/",
+  },
 ];
