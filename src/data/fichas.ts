@@ -24,14 +24,6 @@ export const fichas: Ficha[] = [
   },
   {
     numero: "001",
-    titulo: "Book Tracker",
-    descripcion: "Seguimiento de libros, full-stack",
-    categoria: "app",
-    anio: "2026",
-    url: "https://fiore-rs.github.io/BookTracker/",
-  },
-  {
-    numero: "002",
     titulo: "Teleo",
     descripcion: "Diario de lectura personal, sin ads ni rastreo",
     categoria: "app",
