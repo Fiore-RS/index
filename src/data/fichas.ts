@@ -30,4 +30,12 @@ export const fichas: Ficha[] = [
     anio: "2026",
     url: "https://fiore-rs.github.io/teleo/",
   },
+  {
+    numero: "002",
+    titulo: "Sobres",
+    descripcion: "Presupuesto personal por sobres, sin conexión bancaria",
+    categoria: "app",
+    anio: "2026",
+    url: "https://fiore-rs.github.io/sobres/",
+  },
 ];
